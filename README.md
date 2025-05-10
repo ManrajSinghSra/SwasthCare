@@ -35,6 +35,7 @@ git clone https://github.com/your-username/swasthcare-ai.git
 cd swasthcare-ai
  
 then
+Make virtual environment of python
 cd backend
 pip install -r requirements.txt
 python app2.py
