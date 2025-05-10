@@ -37,7 +37,7 @@ cd swasthcare-ai
 then
 cd backend
 pip install -r requirements.txt
-python app.py
+python app2.py
 
 to run front end 
 cd frontend
